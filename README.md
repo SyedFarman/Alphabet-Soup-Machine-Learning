@@ -1,12 +1,12 @@
 # Alphabet-Soup-Machine-Learning
-### Overview
+## Overview
 The aim of this project is to create a machine learning-based binary classifier tool for Alphabet Soup, a nonprofit foundation, to assist them in selecting the applicants for funding with the highest potential for success in their ventures. The dataset used for this analysis contains various measures on 34,000 organizations that have been funded by Alphabet Soup. The project includes three steps -
 
 - Preprocessing the data for the neural network
 - Compile, Train and Evaluate the Model
 - Optimizing the model 
 
-### Results
+## Results
 
 ## Data Preprocessing:
 
@@ -20,6 +20,12 @@ The aim of this project is to create a machine learning-based binary classifier 
 - The deep learning model was designed with 2 hidden layers consisting of 50 and 20 neurons, respectively, and one output layer.
 - The activation function used in the hidden layers is ReLU, which is ideal for looking at positive non-linear input data for classification or regression.
 - The activation function used in the output layer is sigmoid, which is ideal for binary classification.
+![First Attempt](https://user-images.githubusercontent.com/24644072/229399279-73b77ed9-1758-48e6-8c8e-1df5f7606df4.PNG)
+
+![Second Attempt](https://user-images.githubusercontent.com/24644072/229399293-e6b87e2a-e00d-456b-83c9-799f3ca34da9.PNG)
+
+
+![60 Trial](https://user-images.githubusercontent.com/24644072/229399304-d65455c5-4645-461f-bb06-584a76d4eeb1.PNG)
 
 ## Summary
 
